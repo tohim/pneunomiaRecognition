@@ -1,2 +1,2 @@
 # pneunomiaRecognition
-Neural Systems Pneunomia Recognition Project
+Neural & Cognitive Systems Pneunomia Recognition Project
