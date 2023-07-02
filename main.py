@@ -1,5 +1,3 @@
-classification_prg.py
-
 import matplotlib.pyplot as plt # for plotting
 import numpy as np # for transformation
 
