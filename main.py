@@ -9,6 +9,7 @@ import torch.nn.functional as F             # import convolution functions like 
 import torch.optim as optim                 # optimzer
 
 import torch.utils.data
+from . import CNN
 
 TRAIN_DATA_PATH = "./data/train/"
 TEST_DATA_PATH = "./data/test/"
