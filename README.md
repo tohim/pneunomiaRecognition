@@ -8,6 +8,7 @@ Some can be found in other branches - but only this one in the main is working -
 There is also an additional file: "helper.py" which is necessary to run the code in xraysNN. It contains some additional functions.
 
 Our approach: xraysNN
+
 Run with helper rooted to the same folder for image plotting
 
 1. Creating a class with all basic parameters and hyperparameters for the model.
