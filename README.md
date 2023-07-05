@@ -5,6 +5,7 @@ Neural & Cognitive Systems Pneunomia Recognition Project --> xraysNN.ipynb
 
 We tried around with different approaches.
 Some can be find in other branches - but only this one in main is working - the others were more for trying out.
+There is also an additional file: "helper.py" which is necessary to run the code in xraysNN. It containts some additional functions.
 
 Our approach: xraysNN
 
