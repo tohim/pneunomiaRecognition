@@ -1,13 +1,13 @@
 # pneunomiaRecognition
 Thomas Himmelstoß, José Trapero, Cornelius Breitenbach, Mohammad Zamani 
 
-Neural & Cognitive Systems Pneunomia Recognition Project --> xraysNN.ipynb
+Neural & Cognitive Systems Pneunomia Recognition Project --> `ct_img_rec.ipynb`
 
 We tried around with different approaches.
 Some can be found in other branches - but only this one in the main is working - the others were more for trying out.
 There is also an additional file: "helper.py" which is necessary to run the code in xraysNN. It contains some additional functions.
 
-Our approach: xraysNN
+Our approach: `ct_img_rec.ipynb`
 
 Run with helper rooted to the same folder for image plotting
 
